@@ -445,17 +445,13 @@ Metrics compared:
 
 ![CTR by Budget Tier](images/ctr_by_budget_tier.png)
 
-#### ROI by Seasons
+#### Conversions by Budget Tier
 
-![ROI by Seasons](images/roi_by_seasons.png)
+![Conversions by Budget Tier](images/conversions_by_budget_tier.png)
 
-#### Spend by Channel
+#### ROI by Budget Tier
 
-![Spend by Channel](images/spend_by_channel.png)
-
-#### Conversion vs Spend
-
-![Conversion vs Spend](images/conversions_vs_spend.png)
+![ROI by Budget_Tier](images/roi_by_budget_tier.png)
 
 ### Business Value
 
